@@ -8,7 +8,7 @@
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card">
-                <div class="card-header">Thêm danh mục truyện</div>
+                <div class="card-header">Thêm truyện</div>
 
                 <div class="card-body">
                     @if (session('status'))

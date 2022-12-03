@@ -13,7 +13,7 @@ class TruyenController extends Controller
      */
     public function index()
     {
-        //
+        return view('admincp.truyen.index');
     }
 
     /**
@@ -23,7 +23,7 @@ class TruyenController extends Controller
      */
     public function create()
     {
-        //
+        return view('admincp.truyen.create');
     }
 
     /**
